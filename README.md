@@ -1,6 +1,6 @@
 # Safety-Data-Analytics-Solution
 
-This is the solution to the Problem Statement(PS.pdf) given in Safety Data Analytics, Great Step 2017. Proper solution is explained in presentation file(teamdotai.ppt).
+This is the solution to the Problem Statement(PS.pdf) given in Safety Data Analytics, Great Step 2017. Proper solution is explained in presentation file(teamdotai.pdf).
 
 ![alt text](roc.png)
 
