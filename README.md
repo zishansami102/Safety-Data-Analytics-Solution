@@ -33,4 +33,7 @@ After the preprocessing is done, run the following command to start the analysis
 ```
 python main.py
 ```
+
+Output:
+
 ![alt text](main.png)
